@@ -23,4 +23,4 @@ What specific sonic profiles (danceability, energy, tempo, length) and content a
 
 ## Data Source & References
 * **Dataset Source:** [Kaggle - Spotify Tracks Dataset by yashdev01]([https://kaggle.com](https://www.kaggle.com/datasets/yashdev01/spotify-tracks-dataset))
-* **Project Documentation:** The cleaning steps are documented in `data_cleaning.sql`, and analysis  logic is saved in `music_analysis.sql`.
+* **Project Documentation:** The cleaning steps are documented in `data_cleaning.sql`, and analysis  logic is saved in `genre_analysis.sql`.
