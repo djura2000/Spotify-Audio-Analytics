@@ -4,7 +4,7 @@
 What specific sonic profiles (danceability, energy, tempo, length) and content attributes separate mainstream hit genres from niche genres?
 
 ## Dashboard Preview
-![Spotify Dashboard]
+![Spotify Dashboard](Graph.jpg)
 
 ## Key Findings
 ### 1. Do mainstream hit genres require high energy and loud volumes to dominate the platform?
